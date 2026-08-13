@@ -1,9 +1,9 @@
 # Chavdai40% Socket のご紹介
-![chavdai](https://github.com/dvorak55/chavdai40socket/blob/master/image-ver2/impl-1.jpg)
+![chavdai](https://github.com/dvorak55/chavdai40socket/blob/main/image-ver2/impl-1.jpg)
  - Chavdai40%は、ちゃぶだいよんじゅっぱーせんと、と読みます
  - 古き良きちゃぶ台をイメージしました
 
-![Logo](https://github.com/dvorak55/chavdai40socket/blob/master/image-ver2/logo-chavdai40socket.png)
+![Logo](https://github.com/dvorak55/chavdai40socket/blob/main/image-ver2/logo-chavdai40socket.png)
 
 ★★★　詳細な組み立て説明はキットに同梱の説明書に記載しておりますので省略しますが、この場所では写真が掲載可能なので、デコレーション例や、組み立てで難しそうな点をご紹介いたします　★★★
 
@@ -25,9 +25,9 @@
 ## Chavdai40%の組み立て例
 ### 組立例１（Chavdai40% Socket ＋ ダイソー リメイクシート ナチュラルウッド ホワイト ＋ mtマスキングテープ ドットシリーズ（オレンジ、ピンク、青） ＋ mtマスキングテープ幅3ｍｍシリーズ ＋ ダイソー マスキングテープ ＋ ダイソー デコレーションシール ＋ 一般的な白地に黒文字のキーキャップ）
 なるべくリーズナブルにおしゃれなデザインを目標に、ダイソーの白い木目のリメイクシートを下地に、パステル調のマスキングテープでデコレーションしてみました。キーキャップは同じくリーズナブルに入手できる白地に黒文字のキーキャップを取り付けて、シンプルながらも明るい印象に仕上げました。  
-![chav-daiso1](https://github.com/dvorak55/chavdai40socket/blob/master/image-ver2/chav-daiso1.jpg)
+![chav-daiso1](https://github.com/dvorak55/chavdai40socket/blob/main/image-ver2/chav-daiso1.jpg)
 マスキングテープをランダムに配置して、おしゃれな感じにしてみました。  
-![chav-daiso2](https://github.com/dvorak55/chavdai40socket/blob/master/image-ver2/chav-daiso2.jpg)
+![chav-daiso2](https://github.com/dvorak55/chavdai40socket/blob/main/image-ver2/chav-daiso2.jpg)
 リメイクシートとキーキャップセットは以下で購入可能です（2026年8月15日現在）  
 ●リメイクシート（ダイソー）  
 [daiso-remake](https://jp.daisonet.com/products/4900662759840)
