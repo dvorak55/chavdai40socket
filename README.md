@@ -29,12 +29,13 @@
 マスキングテープをランダムに配置して、おしゃれな感じにしてみました。  
 ![chav-daiso2](https://github.com/dvorak55/chavdai40socket/blob/main/image-ver2/chav-daiso2.jpg)
 リメイクシートとキーキャップセットは以下で購入可能です（2026年8月15日現在）  
+
 ●リメイクシート（ダイソー）  
-[daiso-remake](https://jp.daisonet.com/products/4900662759840)
+[https://jp.daisonet.com/products/4900662759840)](https://jp.daisonet.com/products/4900662759840)  
 ●マスキングテープ（mtドット系）  
-[mt-masking](https://shop.masking-tape.jp/products/list.php?category=99)
-●キーキャップ（Amazon.co.jp） 
-[amazon-keycaps](https://amzn.asia/d/0fVIauQW)
+[https://shop.masking-tape.jp/products/list.php?category=99](https://shop.masking-tape.jp/products/list.php?category=99)  
+●キーキャップ（Amazon.co.jp）  
+[https://amzn.asia/d/0fVIauQW](https://amzn.asia/d/0fVIauQW)  
 
 
 ### 組立例２（Chavdai40% ＋ mtリメイクシートKapitza SUN ＋ Tai-Hao ABS Cubic Miami Surf）
