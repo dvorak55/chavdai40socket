@@ -3,7 +3,7 @@
  - Chavdai40%は、ちゃぶだいよんじゅっぱーせんと、と読みます
  - 古き良きちゃぶ台をイメージしました
 
-![Logo](https://github.com/dvorak55/chavdai40socket/blob/main/image-ver2/th_logo-chavdai40socket.png)
+![Logo](https://github.com/dvorak55/chavdai40socket/blob/main/image-ver2/th_logo-chavdai40socket.jpg)
 
 ★★★　詳細な組み立て説明はキットに同梱の説明書に記載しておりますので省略しますが、この場所では写真が掲載可能なので、デコレーション例や、組み立てで難しそうな点をご紹介いたします　★★★
 
