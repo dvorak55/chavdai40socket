@@ -55,6 +55,26 @@ GMKのキーキャップセットなので、スペースキーを分割でき�
 ![chav-eclipse2](https://github.com/dvorak55/chavdai40/blob/master/image-ver1/chav-eclipse2.jpg)
 リメイクシートとキーキャップセットは現在は入手できません。  
 
+## デフォルトのキーマップ（JISの設定です）
+### 44キーのキーマップ  
+#### デフォルトレイヤー  
+![44-layer0](https://github.com/dvorak55/chavdai40socket/blob/main/image-ver2/44-layer0.png)
+#### レイヤー1  
+![44-layer1](https://github.com/dvorak55/chavdai40socket/blob/main/image-ver2/44-layer1.png)
+
+### 42キーのキーマップ
+#### デフォルトレイヤー  
+![42-layer0](https://github.com/dvorak55/chavdai40socket/blob/main/image-ver2/42-layer0.png)
+#### レイヤー1  
+![42-layer1](https://github.com/dvorak55/chavdai40socket/blob/main/image-ver2/42-layer1.png)
+
+### 日本語キーボードか、英字キーボードかについて
+Chavdai40% Socketでは、最初のキーマップは日本語キーボードのJISの設定になっています。  
+もし英字キーボードの設定にしたい場合は、Vialの画面で以下の箇所を設定してください。  
+上のメニューから『Keyboard Layout』を選び、その中から一番上にある『QWERTY』をクリックして選択します。  
+これで、日本語キーボードのJISkら、英字キーボードになります。  
+![jis-to-eiji](https://github.com/dvorak55/chavdai40socket/blob/main/image-ver2/jis-to-eiji.png)
+
 
 ## その他の問い合わせ先
 X（twitter）: dombrick45 https://twitter.com/dombrick45  
