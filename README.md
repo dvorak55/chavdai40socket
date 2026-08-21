@@ -75,7 +75,7 @@ GMKのキーキャップセットなので、スペースキーを分割でき�
 Chavdai40% Socketでは、キットに付属の説明書内で、最初のキーマップは日本語キーボードのJISの設定にしています。  
 もし英字キーボードの設定にしたい場合は、Vialの画面で以下の箇所を設定してください。  
 上のメニューから『Keyboard Layout』を選び、その中から一番上にある『QWERTY』をクリックして選択します。  
-これで、日本語キーボードのJISkら、英字キーボードになります。  
+これで、日本語キーボードのJISから、英字キーボードになります。  
 ![jis-to-eiji](https://github.com/dvorak55/chavdai40socket/blob/main/image-ver2/jis-to-eiji.png)
 
 
