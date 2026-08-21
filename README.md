@@ -3,9 +3,12 @@
  - Chavdai40%は、ちゃぶだいよんじゅっぱーせんと、と読みます
  - 古き良きちゃぶ台をイメージしました
 
+### ロゴ
 ![Logo](https://github.com/dvorak55/chavdai40socket/blob/main/image-ver2/th_logo-chavdai40socket.jpg)
+### 基板写真
+![socket-pcb](https://github.com/dvorak55/chavdai40socket/blob/main/image-ver2/socket-pcb.jpg)
 
-★★★　詳細な組み立て説明はキットに同梱の説明書に記載しておりますので省略しますが、この場所では写真が掲載可能なので、デコレーション例や、組み立てで難しそうな点をご紹介いたします　★★★
+## ★★★　詳細な組み立て説明はキットに同梱の説明書に記載しておりますので省略しますが、この場所では写真が掲載可能なので、デコレーション例や、組み立てで難しそうな点をご紹介いたします　★★★
 
 ## Chavdai40% Socket（ソケット）の特徴
  - デコレーションできる、コンパクトで健気なキーボード
